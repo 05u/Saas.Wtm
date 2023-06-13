@@ -1,0 +1,4 @@
+[submodule "WTM"]
+	path = WTM
+	url = https://github.com/dotnetcore/WTM.git
+	branch = dotnet6
